@@ -1,3 +1,5 @@
+Basicamente o código faz:
+
 1. Abre o Microsoft Outlook.
 2. Seleciona um dos e-mails que você usa.
 3. Seleciona a pasta dentro desse e-mail (Caixa de entrada, Lixeira, etc.)
@@ -6,6 +8,7 @@
 6. Retorna uma lista com todos os e-mails encontrados em um arquivo txt.
 
 O Problema era:
+
 O setor de RH da empresa, dispara vários holerites para os funcionários cadastrados na mesma.
 Em alguns cadastros os e-mails estavam incorretos.
 Então o servidor "Google" retorna um e-mail informando que não foi possivel entregar a mensagem ao destinatario "pessoa@email.com.br".
