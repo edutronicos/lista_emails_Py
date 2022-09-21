@@ -1,4 +1,4 @@
-Basicamente o código faz:
+**Basicamente o código faz:**
 
 1. Abre o Microsoft Outlook.
 2. Seleciona um dos e-mails que você usa.
@@ -7,7 +7,7 @@ Basicamente o código faz:
 5. Procura dentro do corpo da mensagem por e-mails.
 6. Retorna uma lista com todos os e-mails encontrados em um arquivo txt.
 
-O Problema era:
+**O Problema era:**
 
 O setor de RH da empresa, dispara vários holerites para os funcionários cadastrados na mesma.
 Em alguns cadastros os e-mails estavam incorretos.
@@ -15,3 +15,5 @@ Então o servidor "Google" retorna um e-mail informando que não foi possivel en
 O retorno era de 200 a 300 e-mails.
 Para atualizar tinha que abrir e-mail por e-mail, anotar o e-mail incorreto e informar ao rh para entrar em contato com o funcionario e atualizar.
 Executando o código em 6 segundos retorna a lista com todos os e-mails.
+
+**O código está todo comentado para ajudar.**
